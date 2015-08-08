@@ -1,0 +1,11 @@
+{
+  "name": "live-reload-example",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-sass": "^1.0.0"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
